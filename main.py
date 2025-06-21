@@ -163,7 +163,7 @@ if selected == "Home":
     st.markdown("""
     To explore sentiment analysis results:
     1. Go to the **Inference** section to analyze custom text input
-    2. Visit the **Topic Modelling** section to discover key political themes in the dataset
+    2. Live crawl tweets related to Aceh politics in the **Live Crawling** section
 
     To explore the results of sentiment analysis, you can easily do so by opening the Inference section to analyze custom text input.
     """)
